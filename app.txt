@@ -1,5 +1,4 @@
 Ios
-Developer
+Developer Mobile iOS
 FEATURE VERSİYASI
 DEVELOPMENT-444
-
